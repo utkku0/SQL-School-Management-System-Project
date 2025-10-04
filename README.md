@@ -18,7 +18,7 @@ This project is a simple school management system created with SQL.It includes t
 
 3-Scores
  Students_ID(INT,Primary Key)-Linked to Students.Students_ID
- Subject_ID(INT,Primary Key)-Linekd to Subjects.Subject_ID
+ Subject_ID(INT,Primary Key)-Linked to Subjects.Subject_ID
  Notes(INT)-Score of the student in that subject
 
 4-Teachers 
